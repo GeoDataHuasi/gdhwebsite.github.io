@@ -4,6 +4,83 @@
   margin-right: auto;
   margin-top: 5%;
 }
+
 .logo {
   max-width: 100%;
+}
+
+header.navbar {
+  background-color: #C3CFD9;
+}
+
+.gdh-navbar a {
+  color: #695FF3;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+.container-fluid {
+  padding-top: 100px;
+}
+
+#intro {
+  margin-top: 10px;
+  background-color: #FFF;
+  background-image: url("../img/intro.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 394px;
+  color: #293845;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+#intro-text-div {
+  padding-top:130px;
+}
+
+#intro-text {
+  padding-left:55px;
+  padding-right:30px;
+}
+
+#academia {
+  margin-top: 10px;
+  background-color: #FFF;
+  background-image: url("../img/academia.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 960px;
+  color: #FFF;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+#servicios {
+  margin-top: 10px;
+  background-color: #FFF;
+  background-image: url("../img/servicios.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 960px;
+  color: #FFF;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+#que {
+  margin-top: 10px;
+  background-color: #FFF;
+  background-image: url("../img/quehacemos01.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 884px;
+  color: #FFF;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+#que-text {
+  padding-top: 240px;
+  padding-right: 100px;
 }
