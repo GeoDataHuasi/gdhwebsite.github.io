@@ -1,3 +1,12 @@
+@font-face {
+  font-family: BikoRegular;
+  src: url('../fonts/biko_regular.otf');
+}
+
+body {
+  font-family: BikoRegular, serif;
+}
+
 .center {
   display: block;
   margin-left: auto;
@@ -31,12 +40,12 @@ header.navbar {
   background-position: center;
   height: 394px;
   color: #293845;
-  font-size: 0.8rem;
+  font-size: 0.88rem;
   font-weight: bold;
 }
 
 #intro-text-div {
-  padding-top:130px;
+  padding-top:120px;
 }
 
 #intro-text {
